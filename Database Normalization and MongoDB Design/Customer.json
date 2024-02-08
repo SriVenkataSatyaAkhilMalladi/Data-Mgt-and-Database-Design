@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "63dc766f6baaffbbf0dd332e"
+  },
+  "CustomerID": "30010",
+  "LastName": "Mew",
+  "FirstName": "Stephen",
+  "EmailAddress": "stephen4@adventure-works.com",
+  "OrderId": [
+    {
+      "$oid": "63dc754a6baaffbbf0dd331f"
+    },
+    {
+      "$oid": "63dc754a6baaffbbf0dd3320"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63dc766f6baaffbbf0dd332f"
+  },
+  "CustomerID": "30020",
+  "LastName": "Miller",
+  "FirstName": "Emilo",
+  "EmailAddress": "emilo0@adventure-works.com",
+  "OrderId": [
+    {
+      "$oid": "63dc754a6baaffbbf0dd3321"
+    },
+    {
+      "$oid": "63dc754a6baaffbbf0dd3322"
+    },
+    {
+      "$oid": "63dc754a6baaffbbf0dd3323"
+    },
+    {
+      "$oid": "63dc754a6baaffbbf0dd3324"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63dc766f6baaffbbf0dd3330"
+  },
+  "CustomerID": "30083",
+  "LastName": "Track",
+  "FirstName": "Glenn",
+  "EmailAddress": "glenn0@adventure-works.com",
+  "OrderId": [
+    {
+      "$oid": "63dc754a6baaffbbf0dd3325"
+    },
+    {
+      "$oid": "63dc754a6baaffbbf0dd3326"
+    },
+    {
+      "$oid": "63dc754a6baaffbbf0dd3327"
+    },
+    {
+      "$oid": "63dc754a6baaffbbf0dd3328"
+    }
+  ]
+}]
